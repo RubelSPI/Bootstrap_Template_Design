@@ -1,0 +1,41 @@
+img{
+	height:40px;
+	width:60px;
+}
+
+header{
+		border-bottom: 2px solid orange;
+		padding-top:30px;
+}
+
+.section_title{
+					width:300px;
+					text-align:center;
+					font-family: arial black;
+					font-weight: bold;
+					margin:0 auto;
+					padding:20px 0px;;
+					
+					
+}
+
+.section_title{
+				border-bottom:3px solid orange;
+				padding-bottom:5px;
+}
+
+section{
+			padding: 25px 0px;
+}
+
+.about{
+		border-bottom: 1px solid red;
+		color:green;
+}
+
+.imgr{
+		width:60%;
+		height:200px;
+		border: 3px solid black;
+}
+
